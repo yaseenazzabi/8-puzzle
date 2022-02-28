@@ -1,4 +1,5 @@
-This program evaluates the reachable search state for any 8-puzzle.
+This program evaluates the reachable search state for any 8-puzzle. I strongly recommend that you do not run this program because it will take several hours to run. 
+Instead, read the code by navigating to /Eclipse Source/AIMethods/src/ and reading the .java files in any ordinary text editor.
 
 An 8-puzzle looks as follows (S1):
 
